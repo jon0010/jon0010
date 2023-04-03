@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jon0010" alt="jon0010" /></a> </p>
 
-- 🔭 I’m currently working on [PI-Videogames-main (Henry Bootcamp)](PROJECT DEPLOY ---> https://pi-videogames-main-ief4.vercel.app/ )
+- 🔭 I’m currently working on [PI-Videogames(Henry Bootcamp)] PROJECT DEPLOY> https://pi-videogames-main-ief4.vercel.app/
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
