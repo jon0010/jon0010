@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jon0010" alt="jon0010" /></a> </p>
 
-- 🔭 I’m currently working on Medical Connect (plataforma de atenciones medicas online con videollamadas) PROJECT DEPLOY> medical-connect.vercel.app
-
+- 🔭 I’m currently working on Medical Connect (online medical care platform with video calls) PROJECT DEPLOY---> [medical-connect.vercel.app
+](https://medical-connect.vercel.app/)
 - 🌱 I’m currently learning **Amazon Web Services**
 
 - 👯 I’m looking to collaborate on [task-manager-app](https://github.com/jon0010/task-manager-app.git)
