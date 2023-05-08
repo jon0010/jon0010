@@ -9,7 +9,7 @@
 ](https://medical-connect.vercel.app/)
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 👯 I’m looking to collaborate on [task-manager-app](https://github.com/jon0010/task-manager-app.git)
+- 👨‍💻 my last individual project [pi-videogames] DEPLOY ---> (https://pi-videogames-main-ief4.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jon-nahuel-pereyra-832191257/](https://www.linkedin.com/in/jon-nahuel-pereyra-832191257/)
 
