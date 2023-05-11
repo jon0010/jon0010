@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Medical Connect (online medical care platform with video calls) PROJECT DEPLOY---> [medical-connect.vercel.app
 ](https://medical-connect.vercel.app/)
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 my last individual project [pi-videogames] DEPLOY ---> (https://pi-videogames-main-ief4.vercel.app/)
 
