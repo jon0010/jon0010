@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jon0010" alt="jon0010" /></a> </p>
 
+- 💼💼💼My Portfolio https://jonnahuelpereyra.com.ar/ 💼💼💼
 - 🔭 I’m currently working on Medical Connect (online medical care platform with video calls) PROJECT DEPLOY---> [medical-connect.vercel.app
 ](https://medical-connect.vercel.app/)
 - 🌱 I’m currently learning **Vite.js, Amazon Web Services**
@@ -20,7 +21,7 @@
 - 📄 Know about my experiences [https://github.com/jon0010](https://github.com/jon0010)
 
 - ⚡ Fun fact **I like to be part of development teams to achieve a common goal.**
-- 💼💼💼My Portfolio https://mi-portfolio-git-main-jon0010.vercel.app/ 💼💼💼
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
