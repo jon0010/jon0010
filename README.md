@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I like to be part of development teams to achieve a common goal.**
 
+-Portfolio https://mi-portfolio-git-main-jon0010.vercel.app/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jon-nahuel-pereyra-832191257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jon nahuel pereyra" height="30" width="40" /></a>
