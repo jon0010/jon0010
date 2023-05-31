@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://github.com/jon0010](https://github.com/jon0010)
 
 - ⚡ Fun fact **I like to be part of development teams to achieve a common goal.**
-- My Portfolio https://mi-portfolio-git-main-jon0010.vercel.app/
+- 💼💼💼My Portfolio https://mi-portfolio-git-main-jon0010.vercel.app/ 💼💼💼
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
