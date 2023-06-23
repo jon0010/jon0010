@@ -6,15 +6,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jon0010" alt="jon0010" /></a> </p>
 
 - 💼💼💼My Portfolio https://jonnahuelpereyra.com.ar/ 💼💼💼
-- 🔭 I’m currently working on Medical Connect (online medical care platform with video calls) PROJECT DEPLOY---> [medical-connect.vercel.app
-](https://medical-connect.vercel.app/)
-- 🌱 I’m currently learning **Vite.js, Amazon Web Services**
+  
+- 🔭 I’m currently working on E-commerce Gallay (online store selling knives and hunting and fishing items)
+  
+- 🌱 I’m currently learning **MongoDB, Amazon Web Services**
 
-- 👨‍💻 my last individual project [pi-videogames] DEPLOY ---> (https://pi-videogames-main-ief4.vercel.app/)
+- 👨‍💻 my last individual project [Weeding-invitation] DEPLOY ---> (https://weeding-invitation-iota.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jon-nahuel-pereyra-832191257/](https://www.linkedin.com/in/jon-nahuel-pereyra-832191257/)
 
-- 💬 Ask me about **react.js, express.js, sequelize, postgreSql**
+- 💬 Ask me about **react.js, node.js, express.js, sequelize, postgreSql**
 
 - 📫 How to reach me **jonnahuel78@gmail.com**
 
