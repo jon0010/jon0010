@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning **MongoDB, Amazon Web Services**
 
-- 👨‍💻 my last individual project [Weeding-invitation] DEPLOY ---> (https://weeding-invitation-iota.vercel.app/)
+- 👨‍💻 my last individual project [Weeding-invitation FREELANCE project] DEPLOY ---> (https://weeding-invitation-iota.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jon-nahuel-pereyra-832191257/](https://www.linkedin.com/in/jon-nahuel-pereyra-832191257/)
 
