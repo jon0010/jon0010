@@ -9,13 +9,13 @@
   
 - 🔭 I’m currently working on E-commerce Gallay (online store selling knives and hunting and fishing items)
   
-- 🌱 I’m currently learning **MongoDB, Amazon Web Services**
+- 🌱 I’m currently learning **Angular, Amazon Web Services**
 
-- 👨‍💻 my last individual project [Weeding-invitation FREELANCE project] DEPLOY ---> (https://weeding-invitation-iota.vercel.app/)
+- 👨‍💻 my last individual project [BA-multiplica app FREELANCE project] DEPLOY ---> ([(https://b-amultiplica2-0-homework.vercel.app/)](https://b-amultiplica2-0-homework.vercel.app/))
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jon-nahuel-pereyra-832191257/](https://www.linkedin.com/in/jon-nahuel-pereyra-832191257/)
 
-- 💬 Ask me about **react.js, node.js, express.js, sequelize, postgreSql**
+- 💬 Ask me about **Typescript, react.js, node.js, express.js, postgreSql, MongoDB**
 
 - 📫 How to reach me **jonnahuel78@gmail.com**
 
