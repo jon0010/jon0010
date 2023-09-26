@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jon0010" alt="jon0010" /></a> </p>
 
-- 💼💼💼My Portfolio https://jonnahuelpereyra.com.ar/ 💼💼💼
+- 💼💼💼My Portfolio https://jonnahuelpereyra.com.ar 💼💼💼
   
 - 🔭 I’m currently working on E-commerce Gallay (online store selling knives and hunting and fishing items)
   
