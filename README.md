@@ -7,7 +7,7 @@
 
 - 💼💼💼My Portfolio https://jonnahuelpereyra.com.ar 💼💼💼
   
-- 🔭 I’m currently working on E-commerce Gallay (online store selling knives and hunting and fishing items)
+- 🔭 I’m currently working on E-commerce Gallay (online store selling knives and hunting and fishing items) DEPLOY --- https://www.industriagallay.com.ar
   
 - 🌱 I’m currently learning **Angular, Amazon Web Services**
 
