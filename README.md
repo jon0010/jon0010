@@ -7,9 +7,9 @@
 
 - 💼💼💼My Portfolio https://jonnahuelpereyra.com.ar 💼💼💼
   
-- 🔭 I’m currently working on E-commerce Gallay (online store selling knives and hunting and fishing items) DEPLOY --- https://www.industriagallay.com.ar
+- 🔭 I’m currently working on ClinicaltechSRL (self-manageable platform oriented to the sale of hospital supplies) DEPLOY --- [https://clinicaltechsrl.com.ar/](https://clinicaltechsrl.com.ar/)
   
-- 🌱 I’m currently learning **Angular, Amazon Web Services**
+- 🌱 I’m currently learning **Testing with Mocha & jest**
 
 - 👨‍💻 my last individual project [BA-multiplica app FREELANCE project] DEPLOY ---> ([(https://b-amultiplica2-0-homework.vercel.app/)](https://b-amultiplica2-0-homework.vercel.app/))
 
