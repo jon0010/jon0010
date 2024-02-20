@@ -7,11 +7,11 @@
 
 - 💼💼💼My Portfolio https://jonnahuelpereyra.com.ar 💼💼💼
   
-- 🔭 I’m currently working on ClinicaltechSRL (self-manageable platform oriented to the sale of hospital supplies) DEPLOY --- [https://clinicaltechsrl.com.ar](https://clinicaltechsrl.com.ar)
+- 🔭 I’m currently working on ClinicaltechSRL (self-manageable platform oriented to the sale of hospital supplies) LINK --- [https://clinicaltechsrl.com.ar](https://clinicaltechsrl.com.ar)
   
 - 🌱 I’m currently learning **Testing with Mocha & jest**
 
-- 👨‍💻 my last individual project [BA-multiplica app FREELANCE project] DEPLOY ---> ([(https://b-amultiplica2-0-homework.vercel.app)](https://b-amultiplica2-0-homework.vercel.app))
+- 👨‍💻 my last individual project [BA-multiplica app FREELANCE project] LINK --- ([(https://b-amultiplica2-0-homework.vercel.app)](https://b-amultiplica2-0-homework.vercel.app))
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jon-nahuel-pereyra-832191257](https://www.linkedin.com/in/jon-nahuel-pereyra-832191257)
 
