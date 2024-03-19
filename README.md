@@ -11,7 +11,7 @@
 
 - 👨‍🏭 Last job [Clinical Tech SRL (hospital supplies sales platform)](https://clinicaltechsrl.com.ar)
 
-- 💼 My Portfolio [www.jonnahuelpereyra.com.ar](www.jonnahuelpereyra.com.ar)
+- 💼 My Portfolio [www.jonnahuelpereyra.com.ar](https://jonnahuelpereyra.com.ar/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jon-nahuel-pereyra-832191257](https://www.linkedin.com/in/jon-nahuel-pereyra-832191257)
 
@@ -29,8 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/jon0010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jon0010" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jon nahuel pereyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jon nahuel pereyra" height="30" width="40" /></a>
+<a href="https://dev.to/jon0010" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jon0010" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jon-nahuel-pereyra-832191257/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jon nahuel pereyra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
