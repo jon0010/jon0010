@@ -7,9 +7,7 @@
 
 - 🔭 Estoy trabajando en [Gravitad, aceleradora de proyectos (trabajando actualmente)]([(https://gravitad.com/)](https://gravitad.com/))
 
-- 🌱 Estoy aprendiendo **Python (FLASK framework), Jenkins pipeline CI CD.**
-
-- 👨‍🏭 Ultmo trabajo freelance [Clinical Tech SRL (hospital supplies sales platform)](https://clinicaltechsrl.com.ar)
+- 🌱 Estoy aprendiendo **🦀RUST🦀 (lenguaje de programación), Jenkins pipeline CI CD.**
 
 - 💼 Mi Portfolio [click aca]((https://mi-portfolio-jon0010s-projects.vercel.app/))
 
