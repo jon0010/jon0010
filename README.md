@@ -9,7 +9,7 @@
 
 - 🌱 Estoy aprendiendo **🦀RUST🦀 (lenguaje de programación), Jenkins pipeline CI CD.**
 
-- 💼 Mi Portfolio [click aca]((https://mi-portfolio-jon0010s-projects.vercel.app/))
+- 💼 Mi Portfolio [click aca] (https://mi-portfolio-jon0010s-projects.vercel.app/)
 
 - 📝 Escribo regularmente en [https://www.linkedin.com/in/jon-nahuel-pereyra-832191257](https://www.linkedin.com/in/jon-nahuel-pereyra-832191257)
 
